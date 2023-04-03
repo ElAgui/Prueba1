@@ -1,0 +1,26 @@
+*{
+    margin:0px;
+    padding:0px;
+    border: 0;
+    }
+
+
+.card-title{
+    text-align: center;
+}
+
+.pie1{
+    background-color: rgb(152, 242, 152);
+}
+
+.card1{
+    background-color: rgb(152, 242, 152);
+}
+
+.card-body1{
+    background-color: rgb(152, 242, 152);
+}
+
+.Inicio{
+    background-color: white;
+}
